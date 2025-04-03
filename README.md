@@ -3,7 +3,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 [![Java](https://img.shields.io/badge/Java-23-%23ED8B00?logo=openjdk&logoColor=white)](https://openjdk.org/projects/jdk/23/)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/repo?style=social)](https://github.com/NevigChanuka/Student-Activity-Management-System)  
+[![GitHub Stars](https://img.shields.io/github/stars/NevigChanuka/repo?style=social)](https://github.com/NevigChanuka/Student-Activity-Management-System)  
 
 
 ### Overview
