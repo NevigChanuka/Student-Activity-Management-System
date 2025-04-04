@@ -6,7 +6,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/NevigChanuka/Student-Activity-Management-System?style=social)](https://github.com/NevigChanuka/Student-Activity-Management-System) 
 
 
-### Overview
+## Overview
 
 This Java application is a Student Management System that allows users to manage student records, module marks, and generate reports. The system provides functionality for registering students, tracking module performance, and generating both summary and detailed reports
 
